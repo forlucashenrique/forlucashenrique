@@ -34,7 +34,9 @@ Atualmente estou estudando o framework Angular e a linguagem TypeScript.
 <div>
   <a href="https://www.linkedin.com/in/lucas-henrique-802576184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/lucashenriqi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://play.google.com/store/apps/developer?id=lucas.dev" target="_blank"><img src="https://img.shields.io/badge/Google_Play-%EA4335?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
 </div>
+ 
 <!--
 **forlucashenrique/forlucashenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
