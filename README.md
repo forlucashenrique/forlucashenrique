@@ -2,7 +2,7 @@
 
 
 Como desenvolvedor, tenho experiências com criações de interfaces web com NextJS/ReactJS e construção de API REST com NodeJS.
-Atualmente estou estudando o framework Angular e a linguagem TypeScript.
+
 
 <div align="center">
   <a href="https://github.com/forlucashenrique">
