@@ -1,7 +1,4 @@
-### Olá, me chamo Lucas, sou Desenvolvedor Junior e estudante de Matemática na UFPE. 
-
-
-Como desenvolvedor, tenho experiências com criações de interfaces web com NextJS/ReactJS e construção de API REST com NodeJS.
+### Olá, me chamo Lucas, sou Desenvolvedor de Software e estudante de Matemática na UFPE. 
 
 
 <!-- <div align="center">
