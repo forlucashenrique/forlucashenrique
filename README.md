@@ -1,12 +1,12 @@
 ### Olá, me chamo Lucas, sou Desenvolvedor de Software e estudante de Matemática na UFPE. 
 
-
-<div align="center">
+<!--
+<<div align="center">
   <a href="https://github.com/forlucashenrique">
   <img height="180em" src="https://github-readme-stats-three-xi-79.vercel.app/api?username=forlucashenrique&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-three-xi-79.vercel.app/api/top-langs/?username=forlucashenrique&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+-->
  ##
  
  ### Habilidades
